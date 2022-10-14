@@ -2738,13 +2738,13 @@ W:Button("Press RightShift To Hide The GUI",function()
     print("Button Pressed")
 end)
 
-W:Button("If you want to donate to me",function()
+W:Button("",function()
     print("Button Pressed")
 end)
-W:Button("inno is a bitch edited on 9/13/22",function()
+W:Button("",function()
     print("Button Pressed")
 end)
-W:Button("Cash App : $Scriptie.GG",function()
+W:Button("",function()
     game:GetService("StarterGui"):SetCore("SendNotification", {
             Title="Scriptie Says",
             Text="Copied Successfully!",
@@ -2752,13 +2752,13 @@ W:Button("Cash App : $Scriptie.GG",function()
         })
     setclipboard("$Scriptie.GG")
 end)
-W:Button("Bitcoin Click To Copy Adress ",function()
+W:Button("",function()
     game:GetService("StarterGui"):SetCore("SendNotification", {
             Title="Scriptie Says",
             Text="Copied Successfully!",
             Duration=15
         })
-    setclipboard("3JAqWPuSfER17WVwxaA5RFznQrmYb8yjy7")
+    setclipboard("")
 end)
 W:Button("3JAqWPuSfER17WVwxaA5RFznQrmYb8yjy7",function()
     game:GetService("StarterGui"):SetCore("SendNotification", {
@@ -2768,13 +2768,12 @@ W:Button("3JAqWPuSfER17WVwxaA5RFznQrmYb8yjy7",function()
         })
     print("3JAqWPuSfER17WVwxaA5RFznQrmYb8yjy7")
 end)
-W:Button("Copy Discord Link To Clip Board",function()
-    setclipboard("https://discord.gg/nxRhHHakyg")
+W:Button("C",function()
+    setclipboard("")
 end)
 W:Button("Click to copy TOS",function()
 
-setclipboard("You argee that your username your country and your executer will be publicly logged and you agree that bolts is not reponsable for you being banned from arsenal and also you agree that you will not use your main account when exploiting")
-end)
+setclipboard("")
 W:Button("Undetected Once Again",function()
 print("fuck")
 end)
