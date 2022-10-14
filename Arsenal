@@ -1,3 +1,5 @@
+--Made By Bolts And The3Bakers
+
 Library=loadstring(game:HttpGet("https://pastebin.com/raw/bfSMHFwJ"))()
 
 Client = {
@@ -30,7 +32,7 @@ Client = {
         LookMeth = 'Look Up',                                                                                                                                                                                                                                                 
         Test = '',
         FOV = 150,
-        ChatMsg = 'Scriptie v1 On Top',
+        ChatMsg = 'Bolts Ware v10 On Top',
         AimPart = 'Head'
 
         
@@ -530,7 +532,7 @@ local ArsoniaTable={
 }
 
 
-local name="Scriptie v1 - Fully Undetected - "..identifyexecutor()..""
+local name="Bolts Ware v10 - Fully Undetected - "..identifyexecutor()..""
 
 if _G.Funnyname then
     local Prefix={"Epic","","Working"}
