@@ -2405,7 +2405,7 @@ MiscTabMainSection:Dropdown("Device Spoofer",{"PC","Mobile","XBOX","Wii Steering
     end
 end)
 
-MiscTabMainSection:Toggle("Chat Spam (xonae i had to remake this smh)",function(state)
+MiscTabMainSection:Toggle("Should work")",function(state)
     Client.Toggles.SpamChat = state
 end)
 spawn(function()
