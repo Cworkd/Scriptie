@@ -2738,10 +2738,10 @@ W:Button("Press RightShift To Hide The GUI",function()
     print("Button Pressed")
 end)
 
-W:Button("If you want to donate to me",function()
+W:Button("Test Button",function()
     print("Button Pressed")
 end)
-W:Button("inno is a bitch edited on 9/13/22",function()
+W:Button("Test Button",function()
     print("Button Pressed")
 end)
 W:Button("test button",function()
@@ -2752,30 +2752,30 @@ W:Button("test button",function()
         })
     setclipboard("Scriptie")
 end)
-W:Button("Bitcoin Click To Copy Adress ",function()
+W:Button("Test Button",function()
     game:GetService("StarterGui"):SetCore("SendNotification", {
             Title="Scriptie Says",
             Text="Copied Successfully!",
             Duration=15
         })
-    setclipboard("3JAqWPuSfER17WVwxaA5RFznQrmYb8yjy7")
+    setclipboard("Test Button")
 end)
-W:Button("3JAqWPuSfER17WVwxaA5RFznQrmYb8yjy7",function()
+W:Button("Test Button7",function()
     game:GetService("StarterGui"):SetCore("SendNotification", {
             Title="Scriptie Says",
             Text="Copied Successfully!",
             Duration=15
         })
-    print("3JAqWPuSfER17WVwxaA5RFznQrmYb8yjy7")
+    print("Test Button")
 end)
-W:Button("Copy Discord Link To Clip Board",function()
+W:Button("Test Button",function()
     setclipboard("https://discord.gg/nxRhHHakyg")
 end)
 W:Button("Click to copy TOS",function()
 
 setclipboard("deez nuts gaige a bitch")
 end)
-W:Button("Undetected Once Again",function()
+W:Button("Gaige is a nigga",function()
 print("fuck")
 end)
 local E=Window:Tab("Credits")
