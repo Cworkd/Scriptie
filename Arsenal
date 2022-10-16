@@ -764,7 +764,7 @@ game:GetService("RunService").RenderStepped:Connect(function()
 	end
 end)
 end)
-CombatTabMainSection:Toggle("Wallbang (Working)",function(state)
+CombatTabMainSection:Toggle("Wallbang",function(state)
     Client.Toggles.WallBang = state
     local ping = 32 
 spawn(function()
